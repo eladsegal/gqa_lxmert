@@ -22,7 +22,9 @@ unzip gqa_testdev_obj36.zip && rm gqa_testdev_obj36.zip
 ```
 
 6. Run evaluation:
+```
 python gqa_evaluate.py
+```
 
 Accuracy -
 With `visual_features_file_path = "hf_generated.datasets_testdev.datasets"`: 0.5853871839720146 (when `extracting_data.py` was ran with batch size of 1)
