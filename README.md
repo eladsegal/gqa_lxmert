@@ -1,6 +1,9 @@
 # gqa_lxmert
 
-1. pip install -r requirements.txt
+1. 
+```
+pip install -r requirements.txt
+```
 
 2. Download images from https://nlp.stanford.edu/data/gqa/images.zip and unzip to GQA_IMAGES_DIR
 
